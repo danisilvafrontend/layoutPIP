@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="141.111mm" height="141.111mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 14111 14111"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#333333;stroke-width:143.52;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:#333333;stroke-width:157.63;stroke-linecap:round;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil2 {fill:#33CC99}
+    .fil0 {fill:#FFCC00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1699351699312">
+   <polygon class="fil0" points="5284,12248 2506,12248 2506,6543 5284,9396 "/>
+   <polygon class="fil0" points="8678,12248 5589,12248 5589,6543 8678,9396 "/>
+   <polygon class="fil1 str0" points="6040,12248 2951,12248 2951,6543 6040,9396 "/>
+   <polygon class="fil1 str0" points="9123,12248 6034,12248 6034,6543 9123,9396 "/>
+   <polygon class="fil1 str0" points="11118,12248 9123,12248 9123,7203 11118,7203 "/>
+   <polygon class="fil1 str0" points="11430,6094 8811,6094 8811,7203 11430,7203 "/>
+   <line class="fil1 str0" x1="3690" y1="8722" x2="3690" y2= "12248" />
+   <line class="fil1 str0" x1="6766" y1="8722" x2="6766" y2= "12248" />
+   <line class="fil1 str0" x1="1874" y1="12248" x2="12237" y2= "12248" />
+   <g>
+    <path class="fil2" d="M6505 2134c0,0 3674,-577 3094,3044 -3680,570 -3094,-3044 -3094,-3044z"/>
+    <path class="fil1 str1" d="M6645 1897c0,0 3667,-585 3088,3088 -3673,579 -3088,-3088 -3088,-3088z"/>
+    <line class="fil1 str1" x1="7272" y1="2524" x2="10264" y2= "5516" />
+    <polyline class="fil1 str1" points="9179,3498 9179,4444 8113,4444 "/>
+    <polyline class="fil1 str1" points="8336,2641 8336,3587 7270,3587 "/>
+   </g>
+  </g>
+ </g>
+</svg>
